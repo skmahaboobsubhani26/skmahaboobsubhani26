@@ -70,4 +70,4 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding Fun"/>
 
 
-⭐ *“Eat 🍔 | Sleep 😴 | Code 💻 | Repeat 🔁 | Cricket 🏏”*
+⭐ *“EAT 🍔 | SLEEP 😴 | CODE 💻 | REPEAT 🔁 ”*
