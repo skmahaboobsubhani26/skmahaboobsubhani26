@@ -3,7 +3,7 @@
 
 # 👋 Hey, I'm **SK Mahaboob Subhani**
 
-💻 **Java Full Stack Developer** | 🚀 **Tech Enthusiast** | 📚 **Lifelong Learner**
+💻 **Java Full Stack Developer** | 🚀 **Tech Enthusiast** | 📚 **Lifelong Learner** |
 
 ---
 
