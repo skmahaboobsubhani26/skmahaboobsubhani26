@@ -27,7 +27,7 @@ I'm a passionate software developer who loves creating innovative solutions and 
 - 🌱 **Currently learning**: Advanced React patterns, Docker containerization, and AWS services
 - 👯 **Looking to collaborate on**: Open source projects, web development, and mobile applications
 - 💬 **Ask me about**: JavaScript, Python, Web Development, and Software Engineering best practices
-- 📫 **How to reach me**: [Email](mailto:skmahaboobsubhani26@gmail.com) | [LinkedIn](https://linkedin.com/in/sk-mahaboob-subhani)
+- 📫 **How to reach me**: [Email](mailto:sk6871560@gmail.com) | [LinkedIn](https://linkedin.com/in/sk-mahaboob-subhani)
 - ⚡ **Fun fact**: I debug with console.log and I'm not ashamed of it! 😄 - ⚡ Fun fact: I believe in **“Clean code, clear mind.”**
 
 ## 🛠️ Tech Stack
@@ -97,9 +97,9 @@ A third project that demonstrates your versatility and growth as a developer.
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/skmahaboobsubhani26)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sk-mahaboob-subhani)
   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/skmahaboobsubhani26)
-  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skmahaboobsubhani26@gmail.com)
+  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sk6871560@gmail..com)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://skmahaboobsubhani26.github.io)
   
 </div>
