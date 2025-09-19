@@ -27,7 +27,7 @@ I'm a passionate software developer who loves creating innovative solutions and 
 - 🌱 **Currently learning**: Advanced React patterns, Docker containerization, and AWS services
 - 👯 **Looking to collaborate on**: Open source projects, web development, and mobile applications
 - 💬 **Ask me about**: JavaScript, Python, Web Development, and Software Engineering best practices
-- 📫 **How to reach me**: [Email](mailto:skmahaboobsubhani26@gmail.com) | [LinkedIn](https://linkedin.com/in/skmahaboobsubhani26)
+- 📫 **How to reach me**: [Email](mailto:skmahaboobsubhani26@gmail.com) | [LinkedIn](https://linkedin.com/in/sk-mahaboob-subhani)
 - ⚡ **Fun fact**: I debug with console.log and I'm not ashamed of it! 😄 - ⚡ Fun fact: I believe in **“Clean code, clear mind.”**
 
 ## 🛠️ Tech Stack
