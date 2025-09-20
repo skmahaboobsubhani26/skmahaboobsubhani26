@@ -85,7 +85,7 @@ I'm a passionate software developer who loves creating innovative solutions and 
 ## 🌟 Featured Projects
 
 ### 🔗 [Project Name 1](https://github.com/skmahaboobsubhani26/project1)
-Brief description of your most impressive project. Highlight the technologies used and the problem it solves.
+Brief description of your most impressive project . Highlight the technologies used and the problem it solves. ***new tecknologies 
 
 ### 🔗 [Project Name 2](https://github.com/skmahaboobsubhani26/project2)
 Another significant project showcasing different skills and technologies.
