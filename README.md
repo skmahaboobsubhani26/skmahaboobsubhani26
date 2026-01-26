@@ -119,8 +119,7 @@ If you find my projects helpful, consider:
   <img src="https://komarev.com/ghpvc/?username=skmahaboobsubhani26&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/nampallyharish4/nampallyharish4/output/snake.svg" alt="GitHub Contribution Snake" />
+
   
  
   
