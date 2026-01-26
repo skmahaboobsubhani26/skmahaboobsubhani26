@@ -120,10 +120,12 @@ If you find my projects helpful, consider:
 </div>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/nampallyharish4/nampallyharish4/output/snake.svg" alt="GitHub Contribution Snake" />
   
  
   
 </div>
+
 
 
 
